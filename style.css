@@ -1,0 +1,13 @@
+html {
+  background-color: black;
+  font-family: sans-serif;
+  text-align: center;
+}
+h2 {
+  color: rgb(16, 145, 132);
+  font-size: 28px;
+}
+p {
+  color: turquoise;
+  font-size: 2em;
+}
